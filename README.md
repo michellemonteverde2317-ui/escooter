@@ -1,4 +1,4 @@
-# E-Scooter Rental System
+..# E-Scooter Rental System
 This project is a comprehensive e-scooter rental system consisting of three main components:
 - Backend Service (Cloud-based)
 - User Mobile Application
